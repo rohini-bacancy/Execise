@@ -1,11 +1,10 @@
 print "enter the number:="
 n=gets
 n=n.to_i
-	if(n%2==0)
-	then
+ if(n%2==0)
+ then
 	print "number is even"
-	
-	else
+ else
 	print "number is odd"
-	end	
-	gets
+ end	
+gets
