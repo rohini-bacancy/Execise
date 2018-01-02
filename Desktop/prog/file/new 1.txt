@@ -1,0 +1,8 @@
+a={stud1:{sub1 :10,sub2:37,sub3:45,sub4:40,total:100},
+   stud1:{sub1 :10,sub2:37,sub3:45,sub4:40,total:100},
+   stud1:{sub1 :10,sub2:37,sub3:45,sub4:40,total:100},
+   stud1:{sub1 :10,sub2:37,sub3:45,sub4:40,total:100},
+   stud1:{sub1 :10,sub2:37,sub3:45,sub4:40,total:100}}
+   
+   h=Hash.new()
+   a.each_key{|key|puts key}

@@ -1,0 +1,16 @@
+Implement one small application for bill generation-
+ Add customer Details.- Add product details (With GST).
+ Product DetailNo.    P_name       Price(Rs)   GST(%) 
+ 1      AC             25000       28
+ 2      Computer       20000       20
+ 3      Keyboard       800         12
+ 4      Mouse          300         15
+ 5      Printer        4200        18
+ 6      Scanner        7500        20
+ 7      refrigerator  13500       10
+ 8      Oven           18000       18
+ 9      LCD(TV)        28000       15
+ 10      Speaker       2500        10-
+ Purchase Item from system (Select Product and add Quantity).
+ - Generate bill with GST and customer detail
+ 
